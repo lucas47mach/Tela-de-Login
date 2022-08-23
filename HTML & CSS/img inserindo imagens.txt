@@ -1,0 +1,5 @@
+<img src ="foto.png" alt =Exemplo de foto">
+
+<img src (abertura de tag)
+alt (parametro)
+Exemplo de foto (valor)

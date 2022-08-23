@@ -1,0 +1,5 @@
+<h1 (abertura de tag)
+Exemplo de Titulo (conteudo)
+</h1> (fechamento de tag)
+
+<h1 Exemplo de Titulo </h1>

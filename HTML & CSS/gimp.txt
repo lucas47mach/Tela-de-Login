@@ -1,0 +1,4 @@
+programa gimp 
+
+jpeg (alta compactação, imagem de fundo)
+png (imagem de frente)

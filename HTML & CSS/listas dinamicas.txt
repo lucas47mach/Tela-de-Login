@@ -1,0 +1,30 @@
+lista mista:
+lista ordenada - tipos (1,A,a,I,i) - type="1" start="4" vai começar de 4,5,6,7...
+<ol> 
+	<li>cafe</li>
+	<li>cha</li>
+	<li>acucar</li>
+</ol>
+
+resultado = 1. cafe
+	    2. cha
+	    3. acucar
+
+lista não ordenada - tipos (disc, circle, square)
+<ul>
+
+juntando 
+
+<ol type="1" start="4">
+        <li>café</li>
+        <ul type="disc">
+            <li>com leite</li>
+            <li>sem leite</li>
+            <li>puro</li>
+        </ul>
+</ol>
+
+lista de definicão (como se fosse um dicionario)
+
+<dt> (um termo) ex HTML
+<dd> (a descriçaõ desse termo) ex linguagem de marcação de hiper texto

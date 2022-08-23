@@ -1,0 +1,5 @@
+envelopar texto 
+CTRL + SHIFT + P
+
+<a> href="link"
+* sempre colocar target = "blank" rel="external" (para criar uma nova pagina da web)

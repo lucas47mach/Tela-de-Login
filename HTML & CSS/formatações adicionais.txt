@@ -1,0 +1,18 @@
+(marca texto)
+CTRL + SHIFT + P
+tag <mark>
+<p> criar <mark>texto</mark></p> 
+* trocar cor do marcador 
+<mark style ="background-color:green">
+
+(letra pequena)
+<small>
+
+(texto excluído)
+<del>
+
+(texto sublinhado)
+<ins>
+
+(texto subescrito)
+<sub> ex: H²O

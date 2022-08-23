@@ -1,0 +1,12 @@
+<head> CABEÇA (configurações)
+<body> CORPO (conteúdo)
+<meta charset ="UTF-8"> (aceitar acentuações)
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> (preencher tela em 100%)
+<title> CABEÇA (nome la em cima do site)
+<h1> TITULO 
+<p> PARAGRAFO
+<hr> (linha horizontal abaixo)
+<br> (quebra de linha)
+
+ MOSTRAR TAG NO SITE: 
+EX: <p>Hello, World! &lt;p&gt; <p> (irá mostrar a tag [p])

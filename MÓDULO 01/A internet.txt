@@ -1,0 +1,6 @@
+A internet veio da Arpanet, veio InternetWorking e virou Internet, surgiu durante a guerra para proteger centros militares.
+A internet era cabeada, cabos submarinos.
+site: wwww.submarinecablemap.com = documentario
+video: https://youtu.be/TNQsmPf24go = entendendo a internet e transferencia de dados.
+
+Tim Berners Lee, criador do HTTP e da linguagem HTML.

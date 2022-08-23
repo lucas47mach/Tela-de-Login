@@ -1,0 +1,4 @@
+jpeg (1983)  alta compactação, melhor para fundo de tela.
+png (1996) menas compactação, imagem na frente.
+
+usar imagens com direitos autorais e tomar cuidado com tamanho das imagens para não sobrecarregar o site (usar o gimp para redimensionar).

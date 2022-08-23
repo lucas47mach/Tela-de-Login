@@ -1,0 +1,17 @@
+comandos do git em ordem
+
+git
+pwd
+cd (pasta)
+mkdir (criar nova pasta)
+cd (nome da pasta)
+git clone (ir no perfil do git, achar repositorio e copiar codigo protocolo em CODE)
+colar 
+cd (nome da pasta)
+ls-ltr
+git status 
+
+criar nova branch 
+git checkout -b "hello-world"
+cler (limpar a tela)
+git add 

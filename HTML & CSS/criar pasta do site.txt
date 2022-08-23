@@ -1,0 +1,3 @@
+Antes de qualquer projeto crie as pastas do site e deixe tudo organizado.
+
+Clicar na pasta com botao direito e abrir com VS CODE.

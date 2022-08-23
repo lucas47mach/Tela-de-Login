@@ -1,0 +1,11 @@
+NEGRITO
+(forte, destaque)
+codigo:
+<strong>
+
+ITALICO
+(enfase)
+selecionar texto CTRL + SHIFT + P
+ENTER + P
+codigo: <em>
+

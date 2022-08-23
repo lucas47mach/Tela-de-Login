@@ -1,0 +1,15 @@
+<code> (para codigos, a formataçaõ de letras ficar igual a do codigo)
+
+<pre> (para quebra de linhas igual ao codigo)
+
+SHIFT + TAB (seleciona todo o codigo)
+arrastar o codigo inteiro
+
+<q> (colocar aspas no texto) " "
+  
+<blockquote> (uma quebra de linha TAB) 
+
+<abbr> title="....." 
+ex: HTML = hiper text market language
+
+<bdo> (escrever texto ao contrario)

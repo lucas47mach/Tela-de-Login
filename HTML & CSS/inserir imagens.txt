@@ -1,0 +1,7 @@
+IMAGENS 
+sempre usar sempre as práticas profissonais do processo de download e redimensionamento das imagens para não pesar o site
+colocar as imagens na mesma pasta do arquivo do VS CODE
+
+código:
+img src="" alt="">
+digitar img e nas aspas do src apertar CTRL + ESPAÇO e selecionar a imagem, método bem mais fácil.

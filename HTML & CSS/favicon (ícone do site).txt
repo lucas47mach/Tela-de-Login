@@ -1,0 +1,11 @@
+site achar ícones:
+iconArquive
+-> baixar em ICO
+favicon.cc (fabricar icon)
+favicon.io (texto vira ícone)
+
+código:
+em cima do <title>
+link:favicon 
+<link rel="shortcut icon" href="programação.ico.ico" type="image/x-icon">
+href: apaga -> CTRL + ESPAÇO = seleciona icon

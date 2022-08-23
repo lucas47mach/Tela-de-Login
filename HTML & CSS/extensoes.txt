@@ -1,0 +1,6 @@
+Live server (abrir no navegador e visualizar sua criação)
+Wrap (ajuda na sintaxe da linguagem)
+Portuguese Microsoft (VS CODE ficar em =/- portugues 
+
+html snippets 
+html css suport 

@@ -1,0 +1,5 @@
+criar pasta pag002.html
+
+<p> ... href="link" (CTRL + SHIFT + ESPAÇO)
+
+OBS: rel="nofoloow" (sem o seu aval para os mecanismos de buscas)

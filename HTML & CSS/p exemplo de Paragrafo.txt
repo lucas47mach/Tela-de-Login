@@ -1,0 +1,3 @@
+<p>Exemplo de Paragrafo</p>
+
+*Alguns tem fechamentos e outros não!

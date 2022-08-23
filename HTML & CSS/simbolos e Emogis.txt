@@ -1,0 +1,22 @@
+SIMBOLOS:
+
+&reg; ®️
+&copy; ©️
+&trade; ™️
+&euro; 💶
+&pound; 💷
+&yeh; (moeda chinesa)
+&cent; (centavo americano)
+&Delta; (triangulo delta)
+&uarr; (seta pra cima)
+
+EMOGIS:
+
+Emogipedia 
+-> Escolher emogi
+⬇️ rolar pra baixo e achar codepoints 
+
+Código exemplo:
+<p>Vamos adicionar alguns emogis abaixo!>
+<br>
+<p>&#xU+2122;<p>
